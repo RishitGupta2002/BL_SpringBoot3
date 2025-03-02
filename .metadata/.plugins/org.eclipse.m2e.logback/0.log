@@ -29,3 +29,15 @@
 2025-03-02 17:17:13,233 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-03-02 17:17:13,235 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-03-02 17:17:13,249 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Rishit Gupta\Documents\workspace-spring-tool-suite-4-4.28.1.RELEASE\SpringBoot3\logging_app\src\test\resources
+2025-03-02 17:24:11,543 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-02 17:24:11,548 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-02 17:24:11,555 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Rishit Gupta\Documents\workspace-spring-tool-suite-4-4.28.1.RELEASE\SpringBoot3\logging_app\src\test\resources
+2025-03-02 17:24:19,597 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-02 17:24:19,598 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-02 17:24:19,604 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Rishit Gupta\Documents\workspace-spring-tool-suite-4-4.28.1.RELEASE\SpringBoot3\logging_app\src\test\resources
+2025-03-02 17:24:54,430 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-02 17:24:54,435 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-02 17:24:54,440 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Rishit Gupta\Documents\workspace-spring-tool-suite-4-4.28.1.RELEASE\SpringBoot3\logging_app\src\test\resources
+2025-03-02 17:25:52,142 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-02 17:25:52,146 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-02 17:25:52,149 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Rishit Gupta\Documents\workspace-spring-tool-suite-4-4.28.1.RELEASE\SpringBoot3\logging_app\src\test\resources
